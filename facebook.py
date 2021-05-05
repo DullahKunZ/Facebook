@@ -1,6 +1,6 @@
 ############################################################
-# Name            : facebook                 #
-# File            : facebook.py                             #
+# Name           : facebook                 #
+# File           : facebook.py                             #
 # Creatif        : Dullah                                #
 # Github         : https://github.com/DullahKunZ               #
 # Facebook       : https://www.facebook.com/H3RO3SCYB3RFOUND        #
